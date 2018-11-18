@@ -1,0 +1,50 @@
+- content:
+    jumpotron:
+      title: Hello the new world
+      description: Our landing page template works for all the devices, so you only have to setup it once, and get beautiful results forever.
+      images:
+        - python
+        - perl
+        - pascal
+
+    clients:
+      - name: Algolia
+        url: algolia.svg
+      - name: Android
+        url: android.svg
+      - name: Google Pay
+        url: google-pay.svg
+      - name: Stripe
+        url: stripe.svg
+
+    features:
+      bigtitle: Meet Sienna
+      text: Lorem ipsum is common placeholder text used to demonstrate the graphic elements of a document or visual presentation.
+      items:
+        - feature: Feature 1
+          text: In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content.
+          image: feature-1.svg
+
+        - feature: Feature 2
+          text: In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content.
+          image: feature-2.svg
+
+        - feature: Feature 3
+          text: In a professional context it often happens that private or corporate clients corder a publication to be made and presented with the actual content.
+          image: feature-3.svg
+
+    testimonials:
+      - avatar: testimonial-01.png
+        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
+        name: Mark Simons
+        company: company.com
+
+      - avatar: testimonial-02.png
+        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
+        name: Emma Patrick
+        company: fast.com
+
+      - avatar: testimonial-03.png
+        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
+        name: David Harris
+        company: traction.com
